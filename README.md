@@ -65,14 +65,14 @@
 ## Скріншоти
 
 ### Головний екран
-![Головний екран](screenshots/input_screen.png)
+![Головний екран](Screenshots/input_screen.png)
 
 ### Вибір даних(Spinner)
-![Вибір даних](screenshots/selected_data.png)
+![Вибір даних](Screenshots/selected_data.png)
 ### Вибір даних(RadioGroup)
-![Вибір даних](screenshots/selected_data2.png)
+![Вибір даних](Screenshots/selected_data2.png)
 ### Екран результату
-![Екран результату](screenshots/result_screen.png)
+![Екран результату](Screenshots/result_screen.png)
 
 ---
 
